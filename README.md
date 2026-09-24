@@ -16,6 +16,14 @@ Reliable Lua systems, backend architecture and modern in-game interfaces built a
 
 </div>
 
+## Experience & focus
+
+- FiveM and RedM development since **2017**
+- Custom Lua resources, secure backend systems and modern NUI development
+- Native integrations for established frameworks and custom server architectures
+- Development for existing roleplay servers as well as new projects
+- Configuration, framework migration, debugging and performance optimization
+
 ## What we build
 
 - Custom gameplay, job and economy systems
@@ -49,6 +57,14 @@ Reliable Lua systems, backend architecture and modern in-game interfaces built a
 - **Maintainable:** organized structure, clear configuration and documented integrations
 - **Framework aware:** native support instead of fragile compatibility patches
 - **Built for roleplay:** systems should feel natural inside the game world
+
+## Deutsch
+
+Wir entwickeln seit **2017** individuelle FiveM- und RedM-Systeme. Unser Fokus liegt auf sauberer Lua-Entwicklung, sicherer Backend-Logik und modernen Ingame-Oberflächen.
+
+Wir unterstützen **ESX, QBCore, QBox, VORP, RSG Core, RedEM:RP** sowie individuelle und eigenständige Frameworks. Dazu gehören neue Systeme, Anpassungen bestehender Ressourcen, Framework-Konvertierungen, Fehlerbehebung und Optimierung.
+
+Für eine unverbindliche Projektanfrage kannst du uns über [Fiverr](https://www.fiverr.com/smxpusha) kontaktieren oder dem [SMX Development Discord](https://discord.gg/ABMpCSYj4Z) beitreten.
 
 ## Work with us
 
